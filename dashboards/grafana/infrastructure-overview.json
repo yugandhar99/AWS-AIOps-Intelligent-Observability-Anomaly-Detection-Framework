@@ -1,7 +1,7 @@
 {
   "dashboard": {
     "title": "Intelligent Observability & Anomaly Detection - Infrastructure Overview",
-    "tags": ["aws", "observability", "anomaly-detection"],
+    "tags": ["aws", "observability", "anomaly-detection"], 
     "timezone": "browser",
     "schemaVersion": 27,
     "version": 1,
