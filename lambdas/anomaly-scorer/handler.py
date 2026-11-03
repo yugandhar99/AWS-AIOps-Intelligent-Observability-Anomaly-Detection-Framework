@@ -1,4 +1,4 @@
-""" 
+"""
 Intelligent Observability & Anomaly Detection - Anomaly Scorer Lambda Function
 
 This Lambda function calculates anomaly scores for CloudWatch metrics using
