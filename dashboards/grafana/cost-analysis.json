@@ -1,7 +1,7 @@
 {
   "dashboard": {
     "title": "Intelligent Observability & Anomaly Detection - Cost Analysis",
-    "tags": ["aws", "cost", "anomaly-detection"],
+    "tags": ["aws", "cost", "anomaly-detection"], 
     "timezone": "browser",
     "schemaVersion": 27,
     "version": 1,
