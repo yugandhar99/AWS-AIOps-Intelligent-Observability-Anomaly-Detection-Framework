@@ -1,5 +1,5 @@
 """
-Intelligent Observability & Anomaly Detection - Log Analyzer Lambda Function 
+Intelligent Observability & Anomaly Detection - Log Analyzer Lambda Function
 
 This Lambda function analyzes CloudWatch Logs for patterns, anomalies, and errors.
 It uses statistical analysis and optionally AWS Bedrock for advanced AI-powered insights.
