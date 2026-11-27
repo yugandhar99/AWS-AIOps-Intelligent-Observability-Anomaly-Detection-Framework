@@ -1,4 +1,4 @@
-output "sns_topic_arn" {
+output "sns_topic_arn" { 
   description = "ARN of the SNS topic for AIOps alerts"
   value       = aws_sns_topic.aiops_alerts.arn
 }
