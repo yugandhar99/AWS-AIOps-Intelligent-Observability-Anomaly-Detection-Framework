@@ -1,4 +1,4 @@
-# AWS Intelligent Observability & Anomaly Detection Framework
+# AWS Intelligent Observability & Anomaly Detection Framework 
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Terraform](https://img.shields.io/badge/terraform->=1.0-blue.svg)
